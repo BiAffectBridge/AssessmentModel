@@ -66,7 +66,7 @@ public final class NodeSerializer : GenericPolymorphicSerializer<Node>, Document
     }
     
     public var jsonSchema: URL {
-        URL(string: "\(self.interfaceName).json", relativeTo: kBDHJsonSchemaBaseURL)!
+        URL(string: "\(self.interfaceName).json", relativeTo: kSageJsonSchemaBaseURL)!
     }
     
     override init() {

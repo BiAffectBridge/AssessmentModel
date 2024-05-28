@@ -94,7 +94,7 @@ public final class ImageInfoSerializer : GenericPolymorphicSerializer<ImageInfo>
     }
     
     public var jsonSchema: URL {
-        URL(string: "\(AssessmentFactory.defaultFactory.modelName(for: self.interfaceName)).json", relativeTo: kBDHJsonSchemaBaseURL)!
+        URL(string: "\(AssessmentFactory.defaultFactory.modelName(for: self.interfaceName)).json", relativeTo: kSageJsonSchemaBaseURL)!
     }
     
     override init() {

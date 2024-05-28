@@ -21,11 +21,11 @@ let package = Package(
     ],
     dependencies: [
         .package(name: "JsonModel",
-                 url: "https://github.com/BridgeDigitalHealth/JsonModel-Swift.git",
-                 from: "2.4.3"),
+                 url: "https://github.com/BiAffectBridge/JsonModel-Swift.git",
+                 from: "2.2.0"),
         .package(name: "MobilePassiveData",
-                 url: "https://github.com/BridgeDigitalHealth/MobilePassiveData-SDK.git",
-                 from: "1.6.2"),
+                 url: "https://github.com/BiAffectBridge/MobilePassiveData-SDK.git",
+                 from: "1.6.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.

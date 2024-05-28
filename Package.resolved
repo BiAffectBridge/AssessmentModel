@@ -3,29 +3,20 @@
     "pins": [
       {
         "package": "JsonModel",
-        "repositoryURL": "https://github.com/BridgeDigitalHealth/JsonModel-Swift.git",
+        "repositoryURL": "https://github.com/BiAffectBridge/JsonModel-Swift.git",
         "state": {
           "branch": null,
-          "revision": "a335a33e653329c7bfdcb52740e26ccc01dd2dd0",
-          "version": "2.4.3"
+          "revision": "3274a1192148b9652885d4a6baa50462ae9842b8",
+          "version": "2.2.2"
         }
       },
       {
         "package": "MobilePassiveData",
-        "repositoryURL": "https://github.com/BridgeDigitalHealth/MobilePassiveData-SDK.git",
+        "repositoryURL": "https://github.com/BiAffectBridge/MobilePassiveData-SDK.git",
         "state": {
           "branch": null,
-          "revision": "74a1f99da8f8c017d0a5adbb3584be81bb1cd9a8",
-          "version": "1.6.2"
-        }
-      },
-      {
-        "package": "swift-syntax",
-        "repositoryURL": "https://github.com/apple/swift-syntax.git",
-        "state": {
-          "branch": null,
-          "revision": "6ad4ea24b01559dde0773e3d091f1b9e36175036",
-          "version": "509.0.2"
+          "revision": "a766738b422ae2f0a894b63bf823f252b3c1545e",
+          "version": "1.6.0"
         }
       }
     ]
