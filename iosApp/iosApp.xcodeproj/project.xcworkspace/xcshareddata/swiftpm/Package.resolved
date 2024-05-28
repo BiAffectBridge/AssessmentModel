@@ -3,29 +3,20 @@
     "pins": [
       {
         "package": "JsonModel",
-        "repositoryURL": "https://github.com/Sage-Bionetworks/JsonModel-Swift.git",
+        "repositoryURL": "https://github.com/BiAffectBridge/JsonModel-Swift.git",
         "state": {
           "branch": null,
-          "revision": "ca85a1bb5272f428d050d514d72fdea05c95f6fb",
-          "version": "1.4.10"
+          "revision": "3274a1192148b9652885d4a6baa50462ae9842b8",
+          "version": "2.2.2"
         }
       },
       {
         "package": "MobilePassiveData",
-        "repositoryURL": "https://github.com/Sage-Bionetworks/MobilePassiveData-SDK.git",
+        "repositoryURL": "https://github.com/BiAffectBridge/MobilePassiveData-SDK.git",
         "state": {
           "branch": null,
-          "revision": "9c48602422ff2de9404112b9f2ed98c0a9ca2c44",
-          "version": "1.2.4"
-        }
-      },
-      {
-        "package": "SharedMobileUI",
-        "repositoryURL": "https://github.com/Sage-Bionetworks/SharedMobileUI-AppleOS.git",
-        "state": {
-          "branch": null,
-          "revision": "a3c4ff73d2b222d5a246f617d5c2b062eb3abfe4",
-          "version": "0.17.0"
+          "revision": "a766738b422ae2f0a894b63bf823f252b3c1545e",
+          "version": "1.6.0"
         }
       }
     ]

@@ -4,7 +4,4 @@
    <FileRef
       location = "group:iosApp/iosApp.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:">
-   </FileRef>
 </Workspace>
