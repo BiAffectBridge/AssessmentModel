@@ -22,7 +22,3 @@ One can also compile the application and run tests from the command line:
 ```
    > ./gradlew :androidApp:build
 ```
-
-## License
-
-AssessmentModelKMM is available under the [Commons Clause and BSD 3-clause](LICENSE) licenses.
