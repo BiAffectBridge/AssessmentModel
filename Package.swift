@@ -24,7 +24,7 @@ let package = Package(
                  url: "https://github.com/BiAffectBridge/JsonModel-Swift.git",
                  from: "2.2.0"),
         .package(name: "MobilePassiveData",
-                 url: "https://github.com/BiAffectBridge/MobilePassiveData-SDK.git",
+                 url: "https://github.com/BiAffectBridge/MobilePassiveData-Swift.git",
                  from: "1.6.0"),
     ],
     targets: [

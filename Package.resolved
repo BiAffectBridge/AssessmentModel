@@ -12,7 +12,7 @@
       },
       {
         "package": "MobilePassiveData",
-        "repositoryURL": "https://github.com/BiAffectBridge/MobilePassiveData-SDK.git",
+        "repositoryURL": "https://github.com/BiAffectBridge/MobilePassiveData-Swift.git",
         "state": {
           "branch": null,
           "revision": "a766738b422ae2f0a894b63bf823f252b3c1545e",
